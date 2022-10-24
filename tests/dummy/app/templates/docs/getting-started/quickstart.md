@@ -49,7 +49,7 @@ hello:
 
 ### Setting your applications runtime locale
 
-When your application boots, you want to tell ember-intl which locale it should be targeting.  One common approach, is to do this in your top-level `application` route's `beforeModel` hook.
+When your application boots, you want to tell ember-intl which locale it should be targeting. One common approach, is to do this in your top-level `application` route's `beforeModel` hook.
 
 _Note:_ This is usually implemented with custom business logic - such as read it off a User model.
 

@@ -58,7 +58,7 @@ To enable rendering HTML within translations, pass an `htmlSafe` attribute to th
 }}
 ```
 
-It will escape all hash arguments and returns as an htmlSafe String which renders an ElementNode.  
+It will escape all hash arguments and returns as an htmlSafe String which renders an ElementNode.
 
 
 ## Service API

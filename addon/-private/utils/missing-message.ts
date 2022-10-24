@@ -15,7 +15,7 @@ export default function missingMessage(key: string, locales: string[]): string {
       }
     );
 
-    return `No locale defined.  Unable to resolve translation: "${key}"`;
+    return `No locale defined. Unable to resolve translation: "${key}"`;
   }
 
   const localeNames = locales.join(', ');

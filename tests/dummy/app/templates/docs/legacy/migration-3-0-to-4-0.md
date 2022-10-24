@@ -6,7 +6,7 @@ No migration necessary.
 ## Breaking Change
 
 - CLDR locale data set has been updated from 28.0.0 to 34.0.0
-- Legacy instance initializer removed.  Only a breaking change if you reference it in another one of your initializers using `before: 'ember-intl'` or `after: 'ember-intl'`
+- Legacy instance initializer removed. Only a breaking change if you reference it in another one of your initializers using `before: 'ember-intl'` or `after: 'ember-intl'`
 
 
 ## Enhancements

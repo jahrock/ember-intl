@@ -17,7 +17,7 @@ module.exports = function(/* environment */) {
     fallbackLocale: null,
 
     /**
-     * Path where translations are stored.  This is relative to the project root.
+     * Path where translations are stored. This is relative to the project root.
      * For example, if your translations are an npm dependency, set this to:
      *`'./node_modules/path/to/translations'`
      *

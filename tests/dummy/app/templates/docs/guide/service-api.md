@@ -118,7 +118,7 @@ Output:
 HTML markup. Since options can contain unsafe markup, all attribute hash
 values are escaped.
 
-By default, all XML-like tags inside a translation must be escaped in order to build.  You escape
+By default, all XML-like tags inside a translation must be escaped in order to build. You escape
 by using single quotes around the tag.
 
 
